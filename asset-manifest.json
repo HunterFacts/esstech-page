@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/esstech-page/static/css/main.ee85cff6.css",
-    "main.js": "/esstech-page/static/js/main.811e7fd5.js",
-    "static/js/453.f6082d18.chunk.js": "/esstech-page/static/js/453.f6082d18.chunk.js",
-    "index.html": "/esstech-page/index.html",
-    "main.ee85cff6.css.map": "/esstech-page/static/css/main.ee85cff6.css.map",
-    "main.811e7fd5.js.map": "/esstech-page/static/js/main.811e7fd5.js.map",
-    "453.f6082d18.chunk.js.map": "/esstech-page/static/js/453.f6082d18.chunk.js.map"
+    "main.css": "/static/css/main.ee85cff6.css",
+    "main.js": "/static/js/main.fed94a5b.js",
+    "static/js/453.f6082d18.chunk.js": "/static/js/453.f6082d18.chunk.js",
+    "index.html": "/index.html",
+    "main.ee85cff6.css.map": "/static/css/main.ee85cff6.css.map",
+    "main.fed94a5b.js.map": "/static/js/main.fed94a5b.js.map",
+    "453.f6082d18.chunk.js.map": "/static/js/453.f6082d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee85cff6.css",
-    "static/js/main.811e7fd5.js"
+    "static/js/main.fed94a5b.js"
   ]
 }
